@@ -1,5 +1,16 @@
-h1 { 
-	color: green;
-	background-color: #808080;
+body { 
+	background-image: url(http://clv.h-cdn.co/assets/16/01/980x490/landscape-1451931547-snowquotesindex.jpg);
+	height: 100vh
+	background-size: cover;
+	margin-bottom: 50px
+
+	background-image: flex;
+	flex-direction: cloumn;
+	justify-content: center;
+	align-items: center;
+
 }
+
+
+
 
